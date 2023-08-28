@@ -6,3 +6,6 @@ constants.py
 
 # ignore files folder
 files/
+
+# Ignore .env file
+.env
